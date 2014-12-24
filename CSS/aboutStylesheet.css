@@ -1,0 +1,23 @@
+
+
+
+#MarkBioPic {
+    position:relative;
+    top:1px;
+    left:390px;
+}
+
+#aboutText {
+    position:absolute;
+    width:350px;
+    top:1px;
+    left:1px;
+}
+
+#SubPageContentPane {
+    position:absolute;
+    //width: 400px;
+    //height: 800px;
+    top: 170px;
+    left: 320px;
+}
