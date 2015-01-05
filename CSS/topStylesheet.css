@@ -8,6 +8,8 @@ html {
 
 
 
+
+
  
  
 #cMarkHalberstadtLabel_MainPage {
@@ -83,6 +85,14 @@ html {
     position:absolute;
     top:61px;
     left:120px;
+}
+
+
+#TrapdoorLink {
+    position:absolute;
+    bottom:0px;
+    width:99%;
+    height:1px; 
 }
 
 .subPageTitle {

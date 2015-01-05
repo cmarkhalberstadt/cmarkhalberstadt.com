@@ -7,6 +7,12 @@
     left:390px;
 }
 
+#ResumeDrawing {
+    position:relative;
+    top:9px;
+    left:415px;
+}
+
 #aboutText {
     position:absolute;
     width:350px;
